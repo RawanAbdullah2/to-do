@@ -1,0 +1,30 @@
+.goal-item {
+    margin-bottom:  0.9rem;
+    background: #8b005d;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 0.6rem 0.7rem;
+    width: 77%;
+
+  }
+  .Items{
+      display: flex;
+  }
+  .button-items{
+    height: 39px;
+    width: 100px;
+    background: white;
+    border: 1px solid #8b005d;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
+    color: #8b005d;
+
+  }
+
+  .button-items:hover,
+.button-items:active {
+  background: #e285c3;
+  border-color: #e076bd;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
+  color:white;
+}
+  
